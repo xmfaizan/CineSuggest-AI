@@ -1,6 +1,6 @@
-# 🎬 CineSuggest AI - A Movie Recommendation System based on your MOOD
+# 🎬 CineSuggest AI - A MERN & ML Stack Movie Recommendation System based on your MOOD
 
-> An intelligent movie recommendation system that uses computer vision and AI to suggest movies based on images, text descriptions, and mood preferences.
+> An intelligent movie recommendation MERN app/system that uses computer vision and AI to suggest movies based on images, text descriptions, and mood preferences.
 
 ![Flow Diagram](flowchart.png)
 
