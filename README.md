@@ -130,6 +130,10 @@ movie-app/
    REACT_APP_API_URL=http://localhost:5000/api
    REACT_APP_TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p/w500
    ```
+5. ** HomePage UI**
+
+   ![1](ui1.png)![2](ui2.png)
+      
 ## 🎯 Usage Examples
 
 ### 1. Image-Based Recommendations
