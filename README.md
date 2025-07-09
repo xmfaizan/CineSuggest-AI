@@ -2,7 +2,7 @@
 
 > An intelligent movie recommendation system that uses computer vision and AI to suggest movies based on images, text descriptions, and mood preferences.
 
-![Flow](https://img.shields.io/badge/Status-Working-brightgreen)
+![Flow Diagram](flowchart.png)
 
 ## 🌟 Features
 
